@@ -1,5 +1,5 @@
 # taller2
-Juegos de Nexus 4:
+Juegos de connect 4:
 
 Se a implementado un juego Connect 4 usando un tablero de 6x7. El juego lo juegan jugadores humanos y una inteligencia artificial (IA) que utiliza el algoritmo minimax y la poda alfa-beta para tomar decisiones. Poda minimax y alfa-beta:
 
